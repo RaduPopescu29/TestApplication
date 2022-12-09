@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="submit">Submit</string>
+    <string name="list">List Activity</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+</resources>
